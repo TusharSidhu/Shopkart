@@ -21,4 +21,5 @@ SHOPKART/
 │   └── Products.csv
 └── SQL/                        # Database schema and queries
     └── Shopkart - Database & Table Schema.sql
+    └── Shopkart Analytical Questions.sql
 ```
