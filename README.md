@@ -1,3 +1,4 @@
-# Shopkart
-Sample E-commerce dataset for business analysis, structured across 6 tables (Customers, Category, Products, Orders, Order_Items, Payments); designed to simulate real-world data and enable practice in Excel, MySQL, and Power BI for querying, analysis, and insights.
-Hi this is a test that modification works
+# Shopkart - Your Digital Marketplace
+This project provides a sample e-commerce dataset designed for business analysis and data practice. It is structured across six relational tables: Customers, Categories, Products, Orders, Order_Items, and Payments.
+
+The dataset simulates real-world e-commerce operations and is suitable for practicing data querying, analysis, and visualization using tools such as Excel, MySQL, and Power BI. It helps in building skills in data modeling, business insights generation, and dashboard creation.
