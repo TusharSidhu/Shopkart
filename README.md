@@ -7,4 +7,4 @@ Shopkart serves as a practical business model for understanding how e-commerce c
 
 # Shopkart - ER Diagram
 Below is the Entity Relationship Diagram for Shopkart:
-# This is a Test Argument
+![SHOPKART ER DIAGRAM](<Assets/Shopkart ER Diagram.png>)
