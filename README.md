@@ -8,3 +8,15 @@ Shopkart serves as a practical business model for understanding how e-commerce c
 # Shopkart - ER Diagram
 Below is the Entity Relationship Diagram for Shopkart Database:
 ![SHOPKART ER DIAGRAM](<Assets/Shopkart ER Diagram.png>)
+# Tree Structure
+SHOPKART/
+├── Assets/                     # Images and media files
+├── CSVs/                       # Database CSV datasets
+│   ├── Category.csv
+│   ├── Customers.csv
+│   ├── Order_Items.csv
+│   ├── Orders.csv
+│   ├── Payments.csv
+│   └── Products.csv
+└── SQL/                        # Database schema and queries
+    └── Shopkart - Database & Table Schema.sql
