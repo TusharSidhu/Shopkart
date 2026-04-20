@@ -1,4 +1,10 @@
 # Shopkart - Your Digital Marketplace
-This project provides a sample e-commerce dataset designed for business analysis and data practice. It is structured across six relational tables: Customers, Categories, Products, Orders, Order_Items, and Payments.
+Shopkart is a simulated e-commerce platform designed to represent a modern online retail business ecosystem. It operates across multiple core functions including product listings, category management, customer interactions, order processing, and payment handling.
 
-The dataset simulates real-world e-commerce operations and is suitable for practicing data querying, analysis, and visualization using tools such as Excel, MySQL, and Power BI. It helps in building skills in data modeling, business insights generation, and dashboard creation.
+The platform is structured to mirror real-world e-commerce workflows, where customers browse products across categories, place orders, and complete transactions through integrated payment systems. Each component is interconnected to reflect how data flows within a typical digital marketplace.
+
+Shopkart serves as a practical business model for understanding how e-commerce companies function at scale, making it useful for analyzing operational structure, customer behavior, sales performance, and transaction patterns.
+
+# Shopkart - ER Diagram
+Below is the Entity Relationship Diagram for Shopkart:
+![Shopkart ER Diagram](D:\Tushar Kumar Sidhu\Shopkart\Shopkart ER Diagram.png)
