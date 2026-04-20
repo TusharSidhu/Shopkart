@@ -6,5 +6,5 @@ The platform is structured to mirror real-world e-commerce workflows, where cust
 Shopkart serves as a practical business model for understanding how e-commerce companies function at scale, making it useful for analyzing operational structure, customer behavior, sales performance, and transaction patterns.
 
 # Shopkart - ER Diagram
-Below is the Entity Relationship Diagram for Shopkart:
+Below is the Entity Relationship Diagram for Shopkart Database:
 ![SHOPKART ER DIAGRAM](<Assets/Shopkart ER Diagram.png>)
