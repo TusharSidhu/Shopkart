@@ -76,7 +76,7 @@ The database is structured using a relational model, where entities such as **Cu
 
 The Entity Relationship (ER) Diagram illustrates how these entities interact within the Shopkart system.
 
-> ![Shopkart ER Diagram](<Assets/Shopkart ER Diagram.png>)
+![Shopkart ER Diagram](<Assets/Shopkart ER Diagram.png>)
 
 ---
 
