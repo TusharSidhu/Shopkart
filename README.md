@@ -100,8 +100,6 @@ The primary goal of this project is to bridge the gap between **theoretical data
 
 * Add dashboards (Power BI / Tableau)
 * Integrate advanced SQL analytics
-* Build API layer for real-time simulation
-* Expand dataset for scalability testing
 
 ---
 
