@@ -1,4 +1,4 @@
-# 🛒 Shopkart — Digital Marketplace Simulation
+# 🛒 Shopkart — Your Digital Marketplace
 
 ## 📌 Overview
 
