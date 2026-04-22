@@ -62,8 +62,11 @@ SHOPKART/
 │   └── Products.txt
 │
 └── SQL/                        # Database schema and query files
-    ├── Shopkart - Database & Table Schema.sql
-    └── Shopkart Analytical Questions.sql
+│   ├── Shopkart - Database & Table Schema.sql
+│    └── Shopkart Analytical Questions.sql
+│
+│
+└── README.md           # Mark Down
 ```
 
 ---
