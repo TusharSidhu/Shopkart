@@ -107,12 +107,17 @@ The primary goal of this project is to bridge the gap between **theoretical data
 
 ## 🚀 Future Enhancements
 
-* *Expand and Enrich Dataset*
-Increase the volume and diversity of data by incorporating additional records, new entities (e.g., suppliers, reviews, shipping details), and more realistic transactional patterns to improve analytical depth and scalability testing.
-* *Implement Advanced SQL Analytics*
-Introduce complex SQL operations such as window functions, CTEs (Common Table Expressions), stored procedures, and performance optimization techniques to enable deeper insights into customer behavior, sales trends, and operational efficiency.
-* *Develop Interactive Dashboards*
-Build dynamic and visually rich dashboards using tools like Microsoft Excel and Power BI to present key metrics such as sales performance, customer segmentation, product trends, and revenue analysis in an intuitive format.
+*  ***Expand and Enrich Dataset***
+
+    Increase the volume and diversity of data by incorporating additional records, new entities (e.g., suppliers, reviews, shipping details), and more realistic transactional patterns to improve analytical depth and scalability testing.
+
+* ***Implement Advanced SQL Analytics***
+
+    Introduce complex SQL operations such as window functions, CTEs (Common Table Expressions), stored procedures, and performance optimization techniques to enable deeper insights into customer behavior, sales trends, and operational efficiency.
+
+* ***Develop Interactive Dashboards***
+
+    Build dynamic and visually rich dashboards using tools like Microsoft Excel and Power BI to present key metrics such as sales performance, customer segmentation, product trends, and revenue analysis in an intuitive format.
 
 ---
 
