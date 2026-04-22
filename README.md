@@ -53,13 +53,13 @@ SHOPKART/
 │
 ├── Assets/                     # Images, diagrams, and media files
 │
-├── CSVs/                       # Dataset files (raw data)
-│   ├── Category.csv
-│   ├── Customers.csv
-│   ├── Order_Items.csv
-│   ├── Orders.csv
-│   ├── Payments.csv
-│   └── Products.csv
+├── Text Files/                       # Dataset files (raw data)
+│   ├── Category.txt
+│   ├── Customers.txt
+│   ├── Order_Items.txt
+│   ├── Orders.txt
+│   ├── Payments.txt
+│   └── Products.txt
 │
 └── SQL/                        # Database schema and query files
     ├── Shopkart - Database & Table Schema.sql
