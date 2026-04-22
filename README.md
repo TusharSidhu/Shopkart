@@ -2,7 +2,13 @@
 
 ## 📌 Overview
 
-**Shopkart** is a simulated e-commerce platform built to model the structure and operations of a modern online retail ecosystem. It captures the end-to-end workflow of an e-commerce business — from product discovery to order fulfillment and payment processing.
+**SHOPKART** is a modern e-commerce company designed to provide customers with a seamless and convenient online shopping experience. It offers a wide range of products across multiple categories, including electronics, fashion, groceries, and everyday household essentials. The platform is structured to help users easily browse, compare, and purchase products through an intuitive interface.
+
+**SHOPKART** focuses on efficiency in every stage of the shopping process—from product discovery to order placement, payment, and delivery. It supports multiple secure payment methods and maintains a well-organized order management system to ensure timely processing and tracking of purchases. The company also emphasizes inventory control and product quality, working to provide reliable and up-to-date stock availability.
+
+With a customer-centric approach, **SHOPKART** aims to deliver value through competitive pricing, consistent service, and responsive support. Its goal is to simplify online shopping while maintaining trust, reliability, and satisfaction for a growing base of users.
+
+**SHOPKART** is a simulated e-commerce platform built to model the structure and operations of a modern online retail ecosystem. It captures the end-to-end workflow of an e-commerce business — from product discovery to order fulfillment and payment processing.
 
 The project is designed to provide a clear, data-driven understanding of how different components in an online marketplace interact and how information flows across the system.
 
@@ -10,7 +16,7 @@ The project is designed to provide a clear, data-driven understanding of how dif
 
 ## 🧩 Core Functional Areas
 
-Shopkart is structured around key business functions:
+**SHOPKART** is structured around key business functions:
 
 * **Product Management** — Listing, categorization, and inventory structure
 * **Customer Management** — Customer data and interactions
@@ -36,7 +42,7 @@ This workflow mirrors how real-world e-commerce platforms operate at scale.
 
 ## 📊 Purpose & Use Cases
 
-Shopkart is designed as a **learning and analysis tool**, useful for:
+**SHOPKART** is designed as a **learning and analysis tool**, useful for:
 
 * Understanding relational database design
 * Exploring business logic in e-commerce systems
@@ -53,7 +59,7 @@ SHOPKART/
 │
 ├── Assets/                     # Images, diagrams, and media files
 │
-├── Text Files/                       # Dataset files (raw data)
+├── TXT/                       # Dataset files (raw data)
 │   ├── Category.txt
 │   ├── Customers.txt
 │   ├── Order_Items.txt
@@ -101,8 +107,12 @@ The primary goal of this project is to bridge the gap between **theoretical data
 
 ## 🚀 Future Enhancements
 
-* Add dashboards (Power BI / Tableau)
-* Integrate advanced SQL analytics
+* *Expand and Enrich Dataset*
+Increase the volume and diversity of data by incorporating additional records, new entities (e.g., suppliers, reviews, shipping details), and more realistic transactional patterns to improve analytical depth and scalability testing.
+* *Implement Advanced SQL Analytics*
+Introduce complex SQL operations such as window functions, CTEs (Common Table Expressions), stored procedures, and performance optimization techniques to enable deeper insights into customer behavior, sales trends, and operational efficiency.
+* *Develop Interactive Dashboards*
+Build dynamic and visually rich dashboards using tools like Microsoft Excel and Power BI to present key metrics such as sales performance, customer segmentation, product trends, and revenue analysis in an intuitive format.
 
 ---
 
