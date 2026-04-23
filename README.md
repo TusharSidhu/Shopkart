@@ -59,6 +59,9 @@ SHOPKART/
 │
 ├── Assets/                     # Images, diagrams, and media files
 │
+├── Reports/
+│   ├── Shopkart Report.pbip
+│
 ├── TXT/                       # Dataset files (raw data)
 │   ├── Category.txt
 │   ├── Customers.txt
