@@ -74,7 +74,6 @@ SHOPKART/
 │   ├── Shopkart - Database & Table Schema.sql
 │    └── Shopkart Analytical Questions.sql
 │
-│
 └── README.md           # Mark Down
 ```
 
@@ -109,6 +108,8 @@ The dashboard provides a comprehensive overview of key business metrics, includi
 Interactive ***slicers—such as order date (timeline), gender, payment mode, order status, and state—allow*** users to filter and explore the data dynamically for deeper analysis.
 
 > ![Shopkart Basic Dashboard](<Assets/Shopkart Report.png>)
+
+---
 
 ## 🎯 Objective
 
