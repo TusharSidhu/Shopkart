@@ -88,7 +88,7 @@ The database is structured using a relational model, where entities such as **Cu
 
 The Entity Relationship (ER) Diagram illustrates how these entities interact within the Shopkart system.
 
-![Shopkart ER Diagram](<Assets/Shopkart ER Diagram.png>)
+>![Shopkart ER Diagram](<Assets/Shopkart ER Diagram.png>)
 
 ---
 
@@ -101,6 +101,14 @@ The Entity Relationship (ER) Diagram illustrates how these entities interact wit
 * Payment distribution and methods
 
 ---
+
+## 📊 Dashboard Preview
+
+The dashboard provides a comprehensive overview of key business metrics, including ***revenue trends, order distribution by status, category-wise revenue performance, and top-performing products. It also highlights customer demographics such as gender and age distribution, along with geographic insights based on customer location***. Additionally, it presents payment behavior across different modes.
+
+Interactive ***slicers—such as order date (timeline), gender, payment mode, order status, and state—allow*** users to filter and explore the data dynamically for deeper analysis.
+
+> ![Shopkart Basic Dashboard](<Assets/Shopkart Report.png>)
 
 ## 🎯 Objective
 
