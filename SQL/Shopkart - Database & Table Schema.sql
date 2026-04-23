@@ -6,10 +6,10 @@ USE Shopkart;
 CREATE TABLE Customers(
 Customer_ID VARCHAR(20) PRIMARY KEY,
 Customer_Name TEXT,
-Gender TEXT,
+Gender ENUM("Male","Female"),
 Date_of_Birth DATE,
 Age INT,
-Phone VARCHAR(200),
+Phone VARCHAR(15),
 Email VARCHAR(200),
 City TEXT,
 State TEXT,
@@ -19,7 +19,7 @@ Registration_Date DATE
 -- CATEGORY TABLE --
 CREATE TABLE Category(
 Category_ID VARCHAR(20) PRIMARY KEY,
-Category_Name VARCHAR(200),
+Category_Name VARCHAR(200) UNIQUE,
 Description VARCHAR(255)
 );
 
