@@ -57,12 +57,12 @@ This workflow mirrors how real-world e-commerce platforms operate at scale.
 ```bash
 SHOPKART/
 │
-├── Assets/                     # Images, diagrams, and media files
+├── Assets/     # Images, diagrams, and media files
 │
-├── Reports/
-│   ├── Shopkart Report.pbip
+├── Reports/    # Dashboard & Reports
+│   ├── Shopkart Report.pbip     
 │
-├── TXT/                       # Dataset files (raw data)
+├── TXT/    # Dataset files (raw data)
 │   ├── Category.txt
 │   ├── Customers.txt
 │   ├── Order_Items.txt
@@ -70,11 +70,11 @@ SHOPKART/
 │   ├── Payments.txt
 │   └── Products.txt
 │
-└── SQL/                        # Database schema and query files
+└── SQL/    # Database schema and query files
 │   ├── Shopkart - Database & Table Schema.sql
 │    └── Shopkart Analytical Questions.sql
 │
-└── README.md           # Mark Down
+└── README.md   # Mark Down
 ```
 
 ---
