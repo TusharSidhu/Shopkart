@@ -142,3 +142,6 @@ This project is intended for educational and analytical purposes only.
 ## ✍️ Final Note
 
 Shopkart is not just a dataset — it’s a structured representation of how digital commerce systems operate, making it a strong foundation for learning data analysis, database design, and business intelligence.
+
+## Test
+>![New Customer](<Assets/new customer.png>) >![Quantity Sold](<Assets/Quantity Sold.png>) >![Shopkart Logo](<Assets/Shopkart Logo.jpg>)
