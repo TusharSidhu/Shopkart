@@ -132,7 +132,7 @@ The Entity Relationship (ER) Diagram illustrates how these entities interact:
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Dashboard
 
 The project includes both Excel and Power BI dashboards to analyze business performance from different perspectives.
 
