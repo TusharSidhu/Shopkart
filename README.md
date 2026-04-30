@@ -266,14 +266,6 @@ The goal of this project is to bridge the gap between **theoretical database con
 
   Introduce additional entities such as suppliers, reviews, and shipping details to increase analytical depth
 
-* **Implement Advanced SQL Analytics**
-
-  Use window functions, CTEs, and performance optimization techniques for deeper insights
-
-* **Develop Interactive Dashboards**
-
-  Enhance visualization using advanced Excel and Power BI features
-
 ---
 
 ## 📜 License
