@@ -133,7 +133,7 @@ The Entity Relationship (ER) Diagram illustrates how these entities interact:
 
 ---
 
-## 📊 Dashboard
+## 📊 Dashboards
 
 The project includes both Excel and Power BI dashboards to analyze business performance from different perspectives.
 
@@ -145,7 +145,7 @@ The project includes both Excel and Power BI dashboards to analyze business perf
 
 This dashboard provides a consolidated view of SHOPKART’s overall business performance across key dimensions including revenue, orders, customers, and purchasing behavior.
 
-It highlights **₹432M+ in total revenue**, generated from over **11K orders** and **3.2K customers**, with an average order value of approximately **₹38K** and a strong **79% repeat customer rate**, indicating high customer retention.
+It highlights **₹432M+ in total revenue**, generated from over **12K orders** and **3K customers**, with an average order value of approximately **₹38K** and a strong **79% repeat customer rate**, indicating high customer retention.
 
 Key observations from the dashboard:
 
