@@ -163,7 +163,7 @@ Overall, the dashboard enables quick identification of **sales drivers, customer
 
 ---
 
-### 🔵 Power BI - Executive Overview
+### 🔵 Power BI - Executive
 
 #### 📍 Executive Overview Dashboard
 
@@ -182,6 +182,8 @@ Key insights from this view:
 Overall, this dashboard serves as an **executive snapshot**, enabling quick monitoring of KPIs, operational health, and transaction behavior.
 
 >![Executive Overview - Power BI](<Assets/Shopkart Report - PB.png>)
+
+### 🔵 Power BI - Product & Sales
 
 #### 📍 Product & Revenue Analysis
 
@@ -205,6 +207,8 @@ Overall, this dashboard provides a **granular view of product performance and re
 
 >![Product & Sales Analysis - Power BI](<Assets/Shopkart Report - PB2.png>)
 
+### 🔵 Power BI - Customer & Geographics
+
 #### 📍 Customer & Geographic Insights
 
 This dashboard focuses on customer demographics, geographic performance, and order distribution across regions, providing deeper insight into customer behavior and market reach.
@@ -221,6 +225,14 @@ Key insights from this view:
 This dashboard enables analysis of **who the customers are and where revenue is generated**, supporting targeted marketing, regional strategy, and customer segmentation.
 
 >![Customer Analysis - Power BI](<Assets/Shopkart Report - PB1.png>)
+
+## 🔵 Power BI Dashboard (Interactive)
+
+The Power BI dashboard offers a **fully interactive analytical experience**, enabling dynamic filtering and deeper insights.
+
+### 🎥 Dashboard Interaction Preview
+
+>![Shopkart Interactive Recording](<Assets/Shopkart Recording.gif>)
 
 ---
 
