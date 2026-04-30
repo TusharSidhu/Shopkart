@@ -4,7 +4,8 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Excel](https://img.shields.io/badge/Excel-Analysis-green)
 ![License](https://img.shields.io/badge/License-Educational-lightgrey)
-
+![Repo Size](https://img.shields.io/github/repo-size/your-username/shopkart)
+![Last Commit](https://img.shields.io/github/last-commit/your-username/shopkart)
 ---
 
 ## 📚 Table of Contents
