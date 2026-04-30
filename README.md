@@ -140,7 +140,17 @@ The dashboard provides a comprehensive overview of business performance, includi
 
 Interactive slicers—such as years, months, gender, payment mode, order status, and state—allow users to dynamically filter and explore the data.
 
-![Shopkart Dashboard](<Assets/Shopkart Report.png>)
+---
+
+### 🟢 Excel Dashboard
+
+>![Shopkart Dashboard](<Assets/Shopkart Report.png>)
+
+---
+
+### 🔵 Power BI Dashboard
+
+>![alt text](<Assets/Shopkart Report - PB.png>)
 
 ---
 
