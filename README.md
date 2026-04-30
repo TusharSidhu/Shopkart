@@ -78,16 +78,17 @@ SHOPKART/
 │
 ├── Assets/     # Images, diagrams, and media files
 │
-├── Reports/    # Dashboard & Reports
-│   ├── Shopkart Report.pbip     
-│
-├── data/       # Dataset files (raw data)
+├── Data/       # Dataset files (raw data)
 │   ├── Category.txt
 │   ├── Customers.txt
 │   ├── Order_Items.txt
 │   ├── Orders.txt
 │   ├── Payments.txt
 │   └── Products.txt
+│
+├── Reports/    # Dashboard & Reports
+│   ├── Report Shopkart.pbix    # Power Bi Shopkart Report (Interactive)
+│   ├── Report Shopkart.pdf     # Power Bi Shopkart Report (Static Images)
 │
 ├── SQL/        # Database schema and query files
 │   ├── Shopkart - Database & Table Schema.sql
