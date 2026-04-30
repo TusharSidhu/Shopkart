@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/badge/License-Educational-lightgrey)
 ![Repo Size](https://img.shields.io/github/repo-size/TusharSidhu/Shopkart)
 ![Last Commit](https://img.shields.io/github/last-commit/TusharSidhu/Shopkart)
+
 ---
 
 ## 📚 Table of Contents
