@@ -142,17 +142,6 @@ The Entity Relationship (ER) Diagram illustrates how these entities interact:
 
 ---
 
-## 📌 Key Metrics
-
-* Total Revenue
-* Total Orders
-* Total Customers
-* Average Order Value (AOV)
-* Customer Retention Rate
-* Revenue Contribution per Customer.
-
----
-
 ## 📊 Dashboard Preview
 
 The project includes both Excel and Power BI dashboards to analyze business performance from different perspectives.
