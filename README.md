@@ -132,17 +132,6 @@ The Entity Relationship (ER) Diagram illustrates how these entities interact:
 
 ---
 
-## 📈 Key Insights You Can Explore
-
-* Customer purchasing behavior
-* Product performance across categories
-* Revenue and transaction trends
-* Order frequency and lifecycle patterns
-* Payment distribution and preferences
-* Top Cities generating Revenue
-
----
-
 ## 📊 Dashboard Preview
 
 The project includes both Excel and Power BI dashboards to analyze business performance from different perspectives.
