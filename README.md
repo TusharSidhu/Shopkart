@@ -232,7 +232,9 @@ The Power BI dashboard offers a **fully interactive analytical experience**, ena
 
 ### 🎥 Dashboard Interaction Preview
 
+Below is the Demo of the Interactive Dashboard :
 
+>![Demo](Assets/Demo.gif)(https://youtu.be/7QvkBqVYv5U)
 
 ---
 
