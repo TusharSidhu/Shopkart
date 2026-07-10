@@ -279,7 +279,7 @@ The goal of this project is to bridge the gap between **theoretical database con
 
 * **Expand and Enrich Dataset**
 
-  Introduce additional entities such as suppliers, reviews, and shipping details to increase analytical depth
+  Introduce additional entities.
 
 ---
 
