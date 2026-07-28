@@ -88,9 +88,12 @@ SHOPKART/
 │   ├── Payments.txt
 │   └── Products.txt
 │
-├── Reports/    # Dashboard & Reports
-│   ├── Report Shopkart.pbix    # Power Bi Shopkart Report (Interactive)
-│   ├── Report Shopkart.pdf     # Power Bi Shopkart Report (Static Images)
+├── Data Visuals/   # Data Visualized (Dashboards)
+│   ├── Report Shopkart.pdf   # Power Bi Shopkart (Interactive)   
+│   └── Report Shopkart.pbix  # Power Bi Shopkart (Static Images)
+│
+├── Reports/    # Reports
+│   └── Shopkart Performance Analysis Excel Dashboard.pdf  # Detailed Report of Business with Insights
 │
 ├── SQL/        # Database schema and query files
 │   ├── Shopkart - Database & Table Schema.sql
