@@ -93,6 +93,7 @@ SHOPKART/
 │   └── Report Shopkart.pbix  # Power Bi Shopkart (Static Images)
 │
 ├── Reports/    # Reports
+│   ├── Shopkart Performance Analysis Power BI Dashboard.pdf
 │   └── Shopkart Performance Analysis Excel Dashboard.pdf  # Detailed Report of Business with Insights
 │
 ├── SQL/        # Database schema and query files
